@@ -303,19 +303,19 @@ input {
 }
 @media (max-width: 768px) {
 	h1{
-	font-size:70px;
+	font-size:60px;
 	}
 	#section1{
 	height:auto;
 	}
 	#section1 h1 span {
-	margin:100px auto 20px 10px;
+	margin:120px auto 20px 10px;
     font-size: 60px;
 	text-align:left;
 	}
 	#section1 h1 {
-    font-size: 80px;
-    margin:100px auto 20px 10px;
+    font-size: 60px;
+    margin:120px auto 20px 10px;
     text-align:center;
 	}
 
